@@ -47,7 +47,7 @@ Create storage namespace
 
 ```
 NAMESPACE=storage &&\
-kubectl create ns $NAMESPACE &&\
+kubectl create ns $NAMESPACE
 ```
 
 Create RBAC objects

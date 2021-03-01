@@ -15,3 +15,7 @@ Documentation and scripts for using Rancher and Kubernetes on Kamatera cloud
 * [Pipelines](rancher/Pipelines.md)
 * [Configuration and Secrets](rancher/Configuration%20and%20Secrets.md)
 * [Debugging](rancher/Debugging.md)
+
+## Kubernetes
+
+* [Monitoring](kubernetes/monitoring.md)

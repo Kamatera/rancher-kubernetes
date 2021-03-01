@@ -1,0 +1,4 @@
+loki:
+  persistence:
+    enabled: true
+    storageClassName: managed-nfs-storage
