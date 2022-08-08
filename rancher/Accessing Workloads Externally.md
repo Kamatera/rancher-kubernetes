@@ -165,3 +165,6 @@ Edit the ingress object and add the following annotations on it:
 * key: `nginx.ingress.kubernetes.io/auth-secret-type` value: `auth-map`
 
 When accessing the domain you should now be presented with a http auth popup.
+
+--------------------
+#### [Table Of Contents](../README.md) | [Next Page](Persistent%20Storage.md) ⟶

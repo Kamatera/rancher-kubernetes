@@ -12,3 +12,6 @@ This will install Rancher 2.4 on a K3S cluster:
 Rancher web UI -> Tools -> Node Driver -> Add
 
 Set Driver URL: `https://github.com/Kamatera/docker-machine-driver-kamatera/releases/download/v1.1.2/docker-machine-driver-kamatera_v1.1.2_linux_amd64.tar.gz`
+
+--------------------
+#### [Table Of Contents](../README.md) | [Next Page](Create%20Kubernetes%20Cluster.md) ⟶

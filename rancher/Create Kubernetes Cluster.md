@@ -67,3 +67,6 @@ You may see some errors but they usually go away in a few minutes once cluster s
 Rancher has a retry mechanism, so even if there are errors, it will retry until it works.
 
 If cluster is not stabilizing, check the rancher logs by SSH to the Rancher server and running `docker logs -f rancher`
+
+--------------------
+#### [Table Of Contents](../README.md) | [Next Page](Deploy%20and%20Manage%20Workloads.md) ⟶

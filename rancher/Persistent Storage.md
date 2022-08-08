@@ -80,3 +80,6 @@ echo Hello World > index.html
 ```
 
 You should now see Hello World when accessing the Nginx workload
+
+--------------------
+#### [Table Of Contents](../README.md) | [Next Page](Monitoring%20and%20Logging.md) ⟶

@@ -110,3 +110,6 @@ Cluster explorer -> Monitoring -> Grafana
 * Click on explore (left sidebar)
   * Choose loki data source (top left)
   * Click on the log browser link and follow the instructions
+
+--------------------
+#### [Table Of Contents](../README.md) | [Next Page](Debugging.md) ⟶
