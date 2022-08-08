@@ -30,7 +30,7 @@ Once you have a Rancher server or cluster, you can use it to create a Kubernetes
 
 Following guide shows how to create a cluster using the Kamatera Rancher driver:
 
-[Create a Kubernetes Cluster](rancher/Create%20Kubernetes%20Cluster.md)
+* [Create a Kubernetes Cluster](rancher/Create%20Kubernetes%20Cluster.md)
 
 ### Additional Infrastructure and Services
 
