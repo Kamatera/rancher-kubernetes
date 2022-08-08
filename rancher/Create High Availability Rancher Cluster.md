@@ -1,6 +1,6 @@
 # Create High Availability Rancher Cluster
 
-Following are recommended Rancher documentations to install a Rancher 2.6 High-Availablity cluster.
+Following are recommended guides to install a High-Availablity Rancher cluster.
 
 This is a complex task, you should refer to the [Rancher 2.6 documentation](https://rancher.com/docs/rancher/v2.6/en/) for other installation
 methods and considerations before deciding how to proceed.
