@@ -41,3 +41,4 @@ as they depend on each other:
 * [Persistent Storage](rancher/Persistent%20Storage.md)
 * [Monitoring and Logging](rancher/Monitoring%20and%20Logging.md)
 * [Debugging](rancher/Debugging.md)
+* [Cluster Autoscaler](rancher/Cluster%20Autoscaler.md)
