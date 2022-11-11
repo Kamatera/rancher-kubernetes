@@ -29,4 +29,4 @@ To ensure workloads are scheduled on other nodes, you can use the cordon and dra
 * Drain - remove all existing workloads from the node
 
 --------------------
-#### [Table Of Contents](../README.md) | [Next Page](Cluster Autoscaler.md) ⟶
+#### [Table Of Contents](../README.md) | [Next Page](Cluster%20Autoscaler.md) ⟶
